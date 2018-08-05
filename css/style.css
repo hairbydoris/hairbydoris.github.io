@@ -462,6 +462,7 @@ a:hover {
 
   .time-list-items{
     padding: 100px;
+	  height: 760px;
   }
 }
 
@@ -472,12 +473,18 @@ a:hover {
 
   .time-list-items{
     padding: 20px;
+	height: 760px;
   }
 }
 
 @media only screen and (min-width: 769px){
   #hours{
     height: 550px;
+	  
+  }
+	 .time-list-items{
+    padding: 20px;
+	  height: 760px;
   }
 }
 /* Font of text*/
@@ -721,3 +728,4 @@ footer.footer .social-link:hover {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
+
