@@ -389,6 +389,7 @@ a:hover {
   color: white;
   font-size: 200px;
 }
+
 .img-DR, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
     display: block;
     max-width: 100%;
@@ -687,6 +688,7 @@ h4#Hair-extension{
 div#carouselExampleIndicators1 {
     padding-top: 20px;
     padding-bottom: 52px;
+    background-color:#fff !important;
 }
 
 /* Footer */
