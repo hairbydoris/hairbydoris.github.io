@@ -13,10 +13,10 @@ body {
 }
 
 li.nav-item {
-  font-family: cursive;
+	font-family: cursive;
     color: #b28431;
     font-size: 25px;
-  font-weight: bolder;
+	font-weight: bolder;
 }
 
 .content-section {
@@ -470,7 +470,7 @@ a:hover {
 }
 
 @media only screen and (min-width: 769px){
-   .time-list-items{
+	 .time-list-items{
     padding: 6rem;
   }
 }
@@ -518,7 +518,7 @@ button.button-about-us {
 }
 .about_us_more-buttn {
     padding-top: 35px;
-  padding-bottom: 35px;
+	padding-bottom: 35px;
 }
 section#contact {
     background-image: url("../img/hair_by_doris.jpg");
@@ -718,17 +718,7 @@ div#carouselExampleIndicators1 {
     padding-bottom: 52px;
     background-color:#fff !important;
 }
-div#carouselExampleIndicators2{
-  padding-top: 20px;
-    padding-bottom: 52px;
-    background-color:#fff !important;
-}
-img.card-img-gal {
-    height: 402px;
-    width: 302px;
-    border-top-left-radius: calc(0.25rem - 1px);
-    border-top-right-radius: calc(0.25rem - 1px);
-}
+
 /* Footer */
 footer.footer {
   padding-top: 5rem;
